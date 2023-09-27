@@ -1,6 +1,6 @@
 ## Opa! Sou Rafael Pessoa
 - 👀 Estudo Full-Stack ...
-- 🌱 Estou focado nas linguagens: HTML5, CSS3 e JavaScript
+- 🌱 Estou focado nas linguagens: C# e JavaScript
 - 📖 No momento, cursando o segundo periodo de CCS ...
 
 <div>
